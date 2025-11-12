@@ -5,6 +5,6 @@
 ⚙️ Interessen: Programmierung (C++, Arduino), Netzwerke, Windows Server  
 
 ##🔧 Projekte
-- 💡 **Arduino-LED-Steuerung** – Steuerung von LEDs mit C++ und Sensoren  
+- 💡 **Arduino** – Steuerung mit ArduinoID  
 - 🖥️ **Windows Server Testumgebung** – kleine Lernumgebung für Benutzerverwaltung  
 - 🧩 **C++ Übungen** – Sammlung meiner Übungsprogramme  
